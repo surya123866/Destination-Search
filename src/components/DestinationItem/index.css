@@ -1,0 +1,9 @@
+.image {
+  width: 200px;
+}
+.imageName {
+  color: #000000;
+  font-size: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
